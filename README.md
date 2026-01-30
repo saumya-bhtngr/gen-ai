@@ -17,7 +17,9 @@ This repository contains projects for Generative AI tasks.
    Enterprose-ready AI system using conversational memory to enhance context-awareness and continuity. 
    Filename: rag_pipeline.ipynb
 
-**2. Weather Information Agent using OpenAI**
+**2. Agentic AI**
+
+   **2.1 Weather Information Agent**
 
    Problem: Build a function-calling agent that retrieves and processes weather information, demonstrating the practical implementation of agent capabilities. 
 
@@ -27,6 +29,18 @@ This repository contains projects for Generative AI tasks.
    * Function calling via OpenAI API is successfully set up and tested with sample queries.
 
    Outcome:
-   Leverage LLMs for task planning, execution and autonomous problem-solving
+   Leverage GenAI agents for task planning, execution and autonomous problem-solving
    Filename: weather_information_agent.ipynb
+
+   **2.2 SQL Agent**
+    Problem: Build an agent that converts natural language queries into SQL, executes them, and returns formatted results. 
+
+   Solution:
+   * Successfully use OpenAI API to convert natural language queries into valid, syntactically correct SQL.
+   * Execute generated SQL safely and returns correct, formatted results from the database.
+   * Implement proper validation (e.g., blocks dangerous statements like DROP, DELETE, etc.).
+
+   Outcome:
+   Use agents to interact with database systems and execute user queries
+   Filename: sql_agent.ipynb
    
