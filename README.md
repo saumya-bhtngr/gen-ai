@@ -14,6 +14,19 @@ This repository contains projects for Generative AI tasks.
    * Integrated vector store wth GPT-4 language model and added memory capability
 
    Outcome:
-   Enterprose-ready AI system using conversational memory to enhance context-awareness and continuity.
+   Enterprose-ready AI system using conversational memory to enhance context-awareness and continuity. 
+   Filename: rag_pipeline.ipynb
 
-**2. 
+**2. OpenAI based Weather Information Agent**
+
+   Problem: Build a function-calling agent that retrieves and processes weather information, demonstrating the practical implementation of agent capabilities. 
+
+   Solution:
+   * Interated external API
+   * Agent correctly returns a formatted weather summary (e.g., location, temperature, condition).
+   * Function calling via OpenAI API is successfully set up and tested with sample queries.
+
+   Outcome:
+   Leverage LLMs for task planning, execution and autonomous problem-solving
+   Filename: weather_information_agent.ipynb
+   
