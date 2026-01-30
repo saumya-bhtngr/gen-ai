@@ -17,7 +17,7 @@ This repository contains projects for Generative AI tasks.
    Enterprose-ready AI system using conversational memory to enhance context-awareness and continuity. 
    Filename: rag_pipeline.ipynb
 
-**2. OpenAI based Weather Information Agent**
+**2. OpenAI powered Weather Information Agent**
 
    Problem: Build a function-calling agent that retrieves and processes weather information, demonstrating the practical implementation of agent capabilities. 
 
