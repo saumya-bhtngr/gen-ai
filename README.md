@@ -74,6 +74,7 @@ This repository contains projects for Generative AI tasks.
    * incorporate weather data and available events data for recommendation.
    
 **3. Transformer-Based Sentiment Classification**
+
    Problem: Develop and evaluate basic and advanced Transformer models for binary text classification to understand the application of attention mechanisms and positional encoding in NLP.
    Dataset Used: IMDB dataset
    Solution:
