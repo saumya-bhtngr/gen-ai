@@ -2,7 +2,7 @@
 This repository contains projects for Generative AI tasks.
 
 ## Repository Structure
-
+```
 ├── agentic-ai
 │   ├── multi_agent_recommendation_system.ipynb
 │   ├── sql_agent.ipynb
@@ -20,7 +20,7 @@ This repository contains projects for Generative AI tasks.
 └── vision-models
     ├── vae_mnist.ipynb
     └── vit_image_classification.ipynb
-
+```
 ## Projects
 
 **1. Retrieval Augmented Generation (RAG) based Question Answering System**
