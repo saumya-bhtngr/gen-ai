@@ -1,6 +1,26 @@
 # GenAI
 This repository contains projects for Generative AI tasks.
 
+## Repository Structure
+
+├── agentic-ai
+│   ├── multi_agent_recommendation_system.ipynb
+│   ├── sql_agent.ipynb
+│   └── weather_information_agent.ipynb
+├── ai_assistant.ipynb
+├── langchain_agent_tool_calling_prototype.ipynb
+├── langchain_ollama.ipynb
+├── rag
+│   ├── data
+│   │   └── company_policy.pdf
+│   └── rag_pipeline.ipynb
+├── README.md
+├── transformers
+│   └── transformer_based_sentiment_classification.ipynb
+└── vision-models
+    ├── vae_mnist.ipynb
+    └── vit_image_classification.ipynb
+
 ## Projects
 
 **1. Retrieval Augmented Generation (RAG) based Question Answering System**
